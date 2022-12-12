@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Dobox The Real#7947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dobox The Real#7947" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/eugène-emmanuël-dubuc-bb03ba169/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Eugene | LinkedIn" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
