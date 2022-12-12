@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dobox The Real !</h1>
 <h3 align="center">Just a normal guy who loves to learn 💻</h3>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=eugeneemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="eugeneemmanuel" /> 
+</p>
+
 - ☕️ I'm probably listening to **some lo-fi and drinking coffee**
 
 - 🌱 I’m currently learning **Mobile and Network development**
