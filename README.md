@@ -7,7 +7,7 @@
 
 - ☕️ I'm probably listening to **some lo-fi and drinking coffee**
 
-- 🌱 I’m currently learning **Mobile and Network development**
+- 🌱 I’m currently learning **Mobile and Web**
 
 - 📫 You can reach me here : **eugene-emmanuel@hotmail.com**
 
