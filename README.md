@@ -24,4 +24,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeneemmanuel&show_icons=true&theme=dracula&locale=en" alt="eugeneemmanuel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eugeneemmanuel.vercel.app/api?username=eugeneemmanuel&show_icons=true&theme=dracula&locale=en" alt="eugeneemmanuel" /></p>
