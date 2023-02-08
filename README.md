@@ -4,7 +4,7 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=eugeneemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="eugeneemmanuel" /> 
-  <a href="https://wakatime.com/@9ec42c32-9beb-4995-bc45-2200ad9c42d5"><img src="https://wakatime.com/badge/user/9ec42c32-9beb-4995-bc45-2200ad9c42d5.svg" alt="Total time coded since Aug 29 2022" /></a>
+<a href="https://wakatime.com/@9ec42c32-9beb-4995-bc45-2200ad9c42d5"><img src="https://wakatime.com/badge/user/9ec42c32-9beb-4995-bc45-2200ad9c42d5.svg" alt="Total time coded since Aug 29 2022" /></a>
 </p>
 
 - ☕️ I'm probably listening to **some lo-fi and drinking coffee**
