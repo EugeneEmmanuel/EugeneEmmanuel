@@ -9,7 +9,7 @@
 
 - ☕️ I'm probably listening to **some lo-fi and drinking coffee**
 
-- 🌱 I’m currently learning **Mobile and Web**
+- 🌱 I’m currently doing my internship at [Recursyve](https://recursyve.io)
 
 - 📫 You can reach me here : **eugene-emmanuel@hotmail.com**
 
