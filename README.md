@@ -14,5 +14,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/eugène-emmanuël-dubuc-bb03ba169/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Eugene | LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/eugene-emmanuel-dubuc"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Eugene | LinkedIn" height="30" width="40"/></a>
 </p>
