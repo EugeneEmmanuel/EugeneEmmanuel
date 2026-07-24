@@ -8,7 +8,7 @@
 
 - ☕️ I'm probably listening to **some lo-fi and drinking coffee**
 
-- 🌱 I’m currently working at [Recursyve](https://recursyve.io)
+- 🌱 I’m currently working at [Solutions Connect it](https://solutionsconnectit.com/)
 
 - 📫 You can reach me here : **eugene-emmanuel@hotmail.com**
 
